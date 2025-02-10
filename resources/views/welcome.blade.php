@@ -9,6 +9,6 @@
     <title>Document</title>
 </head>
 <body>
-
+<h1 class="text-red-500">testt</h1>
 </body>
 </html>
