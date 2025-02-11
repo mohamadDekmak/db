@@ -20,19 +20,19 @@
         <div class="swiper-wrapper">
             <div class="swiper-slide">
                 <h1 class="text-[#AD2F36] text-[30px] font-bold h-[140px] flex justify-center items-center ">ولد في 12\2 و اعلن حبه للبقر و كرهه للسود</h1>
-                <img class="h-[300px] w-full object-cover" src="/images/mustafa14.jpeg" alt="">
+                <img class="h-[400px] w-full object-cover" src="/images/mustafa14.jpeg" alt="">
             </div>
             <div class="swiper-slide">
                 <h1 class="text-[#AD2F36] text-[30px] font-bold h-[140px] flex justify-center items-center ">انضم الى عدة نوادي محاولا تحقيق هدفه ب انشاء نادي الحليب</h1>
-                <img class="h-[300px] w-full object-cover" src="/images/mustafa15.jpeg" alt="">
+                <img class="h-[400px] w-full object-cover" src="/images/mustafa15.jpeg" alt="">
             </div>
             <div class="swiper-slide">
                 <h1 class="text-[#AD2F36] text-[30px] font-bold h-[140px] flex justify-center items-center ">اخر صورة له قبل دخول عالم البرمجة و العمل على fiveStars</h1>
-                <img class="h-[300px] w-full object-cover" src="/images/mustafa12.jpeg" alt="">
+                <img class="h-[400px] w-full object-cover" src="/images/mustafa12.jpeg" alt="">
             </div>
             <div class="swiper-slide">
                 <h1 class="text-[#AD2F36] text-[30px] font-bold h-[140px] flex justify-center items-center ">بعد العمل على FST</h1>
-                <img class="h-[300px] w-full object-cover" src="/images/mustafa13.jpeg" alt="">
+                <img class="h-[400px] w-full object-cover" src="/images/mustafa13.jpeg" alt="">
             </div>
         </div>
         <div class="swiper-pagination" style="position: relative;top: 5px"></div>
