@@ -13,4 +13,3 @@ Route::get('/hussein', function () {
 Route::get('/mustafa', function () {
     return view('pages.mustafa');
 });
-
