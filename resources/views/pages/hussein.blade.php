@@ -111,6 +111,7 @@
     {{--        </div>--}}
     {{--    </div>--}}
 </section>
+<x-mix></x-mix>
 <script>
     const Swipert = new Swiper('.swiper', {
         slidesPerView: 1,
