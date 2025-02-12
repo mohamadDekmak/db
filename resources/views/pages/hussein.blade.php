@@ -73,7 +73,7 @@
             <div class="swiper-slide max-height-testimonial" style="height: 100%">
                 <div class="bg-[#D9D9D9] p-5 h-[170px] flex-col flex gap-4">
                     <img class="w-[25px]" src="/images/testimonial.svg" alt="">
-                    <p class="px-3">Ratteb L Figma please! </p>
+                    <p class="px-3">Ratteb l figma please.. </p>
                     <h2 class="text-[#3C4592] font-bold text-[20px]">Maria Dayekh</h2>
                 </div>
             </div>
