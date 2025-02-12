@@ -13,15 +13,16 @@
 <body>
 
 <img src="/images/img.png" alt="" class="object-cover max-h-[500px] w-full">
+<img src="/images/img_1.png" alt="" class="object-cover max-h-[500px] w-full">
 <section class="px-2">
     <h1 class="text-[#3C4592] text-[30px] font-bold text-center  my-5">Hussein Al Mawla <br> (Best CEO)</h1>
     <iframe class="w-full" height="315" src="https://www.youtube.com/embed/gOJdA-hYRFs?si=mHF03IweNPNKSrld"
             title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+    <img src="/images/img_2.png" class="my-4" alt="">
     <div class="swiper text-center  my-5">
-        <div class="swiper-wrapper py-9">
+        <div class="swiper-wrapper">
 
             <div class="swiper-slide">
                 <h1 class="text-[#AD2F36] text-[30px] font-bold py-4">ب علمنا</h1>
