@@ -8,7 +8,7 @@
     @vite('resources/css/app.css')
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-    <title>hussein AL Mawla</title>
+    <title>Hussein AL Mawla | CEO</title>
 </head>
 <body>
 

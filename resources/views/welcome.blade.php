@@ -6,9 +6,9 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     @vite('resources/css/app.css')
-    <title>Document</title>
+    <title>February Birthdays</title>
 </head>
 <body>
-<h1 class="text-red-500">testt</h1>
+<h1 class="text-red-500 text-center text-[50px] font-bold">Happy Birthday!</h1>
 </body>
 </html>
