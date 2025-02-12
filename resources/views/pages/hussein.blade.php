@@ -19,34 +19,44 @@
             title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <div class="swiper text-center my-5">
-        <div class="swiper-wrapper">
+
+    <div class="swiper text-center  my-5">
+        <div class="swiper-wrapper py-9">
+
             <div class="swiper-slide">
-                <h1 class="text-[#AD2F36] text-[30px] font-bold">B3alemna</h1>
+                <h1 class="text-[#AD2F36] text-[30px] font-bold py-4">ب علمنا</h1>
                 <img class="h-[300px] w-full object-cover" src="/images/lkel4.jpg" alt="">
             </div>
             <div class="swiper-slide">
-                <h1 class="text-[#AD2F36] text-[30px] font-bold">Bewajehna</h1>
+                <h1 class="text-[#AD2F36] text-[30px] font-bold py-4">ب يوجهنا</h1>
                 <img class="h-[300px] w-full object-cover" src="/images/lkel3.jpg" alt="">
             </div>
             <div class="swiper-slide">
-                <h1 class="text-[#AD2F36] text-[30px] font-bold">By3ml 7alo ma3ju2</h1>
+                <h1 class="text-[#AD2F36] text-[30px] font-bold py-4">بيعمل حاله معجوق</h1>
                 <img class="h-[300px] w-full object-cover" src="/images/hussein1.jpg" alt="">
             </div>
             <div class="swiper-slide">
-                <h1 class="text-[#AD2F36] text-[30px] font-bold">W Bnem</h1>
+                <h1 class="text-[#AD2F36] text-[30px] font-bold py-4">و بنام</h1>
                 <img class="h-[300px] w-full object-cover" src="/images/hussein2.jpg" alt="">
             </div>
         </div>
         <div class="swiper-pagination" style="position: relative;top: 5px"></div>
     </div>
+    <h1 class="text-[#AD2F36] text-[30px] font-bold text-center">What our Team says to us:</h1>
     <div class="testimonial-swiper my-5" style="overflow: hidden">
         <div class="swiper-wrapper">
             <div class="swiper-slide max-height-testimonial" style="height: 100%">
                 <div class="bg-[#D9D9D9] p-5 h-[170px] flex-col flex gap-4">
                     <img class="w-[25px]" src="/images/testimonial.svg" alt="">
                     <p class="px-3">Happy Birthday, my Love.</p>
-                    <h2 class="text-[#3C4592] font-bold text-[20px]">Yumna Al Mawla</h2>
+                    <h2 class="text-[#3C4592] font-bold text-[20px]">Yumna Al Husseini</h2>
+                </div>
+            </div>
+            <div class="swiper-slide max-height-testimonial" style="height: 100%">
+                <div class="bg-[#D9D9D9] p-5 h-[170px] flex-col flex gap-4">
+                    <img class="w-[25px]" src="/images/testimonial.svg" alt="">
+                    <p class="px-3">Component: B Card | class="Test w msh ha e3mlak Cappuccino"</p>
+                    <h2 class="text-[#3C4592] font-bold text-[20px]">Mohamad Dekmak Junior</h2>
                 </div>
             </div>
             <div class="swiper-slide max-height-testimonial" style="height: 100%">
@@ -60,7 +70,7 @@
                 <div class="bg-[#D9D9D9] p-5 h-[170px] flex-col flex gap-4">
                     <img class="w-[25px]" src="/images/testimonial.svg" alt="">
                     <p class="px-3">لعنة الله على الظالمين</p>
-                    <h2 class="text-[#3C4592] font-bold text-[20px]">Maram</h2>
+                    <h2 class="text-[#3C4592] font-bold text-[20px]">Maram Taha</h2>
                 </div>
             </div>
             <div class="swiper-slide max-height-testimonial" style="height: 100%">
