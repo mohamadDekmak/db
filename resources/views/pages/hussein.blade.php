@@ -26,7 +26,7 @@
                 <img class="h-[300px] w-full object-cover" src="/images/lkel4.jpg" alt="">
             </div>
             <div class="swiper-slide">
-                <h1 class="text-[#AD2F36] text-[30px] font-bold">bwajhena</h1>
+                <h1 class="text-[#AD2F36] text-[30px] font-bold">Bewajehna</h1>
                 <img class="h-[300px] w-full object-cover" src="/images/lkel3.jpg" alt="">
             </div>
             <div class="swiper-slide">
@@ -45,8 +45,8 @@
             <div class="swiper-slide max-height-testimonial" style="height: 100%">
                 <div class="bg-[#D9D9D9] p-5 h-[170px] flex-col flex gap-4">
                     <img class="w-[25px]" src="/images/testimonial.svg" alt="">
-                    <p class="px-3">Happy Birthday my love.</p>
-                    <h2 class="text-[#3C4592] font-bold text-[20px]">Yumna</h2>
+                    <p class="px-3">Happy Birthday, my Love.</p>
+                    <h2 class="text-[#3C4592] font-bold text-[20px]">Yumna Al Mawla</h2>
                 </div>
             </div>
             <div class="swiper-slide max-height-testimonial" style="height: 100%">
@@ -67,7 +67,14 @@
                 <div class="bg-[#D9D9D9] p-5 h-[170px] flex-col flex gap-4">
                     <img class="w-[25px]" src="/images/testimonial.svg" alt="">
                     <p class="px-3">Töte alle Schwarzen</p>
-                    <h2 class="text-[#3C4592] font-bold text-[20px]">Mostafa</h2>
+                    <h2 class="text-[#3C4592] font-bold text-[20px]">Mostafa Kalash</h2>
+                </div>
+            </div>
+            <div class="swiper-slide max-height-testimonial" style="height: 100%">
+                <div class="bg-[#D9D9D9] p-5 h-[170px] flex-col flex gap-4">
+                    <img class="w-[25px]" src="/images/testimonial.svg" alt="">
+                    <p class="px-3">Ratteb L Figma please! </p>
+                    <h2 class="text-[#3C4592] font-bold text-[20px]">Maria Dayekh</h2>
                 </div>
             </div>
         </div>
