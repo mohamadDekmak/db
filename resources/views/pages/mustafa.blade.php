@@ -25,19 +25,19 @@
     <div class="swiper text-center">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <h1 class="text-[#AD2F36] text-[30px] font-bold h-[140px] flex justify-center items-center ">ولد في 12 شباط وأعلن حبه للبقر وكرهه للسود</h1>
+                <h1 class="text-[#AD2F36] text-[30px] font-bold h-[200px] flex justify-center items-center ">ولد في 12 شباط وأعلن حبه للبقر وكرهه للسود</h1>
                 <img class="h-[500px] w-full object-cover" src="/images/mustafa14.jpeg" alt="">
             </div>
             <div class="swiper-slide">
-                <h1 class="text-[#AD2F36] text-[30px] font-bold h-[140px] flex justify-center items-center ">انضم الى عدة نوادي محاولا تحقيق هدفه بإنشاء نادي الحليب</h1>
+                <h1 class="text-[#AD2F36] text-[30px] font-bold h-[200px] flex justify-center items-center ">انضم الى عدة نوادي محاولا تحقيق هدفه بإنشاء نادي الحليب</h1>
                 <img class="h-[500px] w-full object-cover" src="/images/mustafa15.jpeg" alt="">
             </div>
             <div class="swiper-slide">
-                <h1 class="text-[#AD2F36] text-[30px] font-bold h-[140px] flex justify-center items-center ">آخر صورة له قبل دخول عالم البرمجة و العمل على <br> Five Stars</h1>
+                <h1 class="text-[#AD2F36] text-[30px] font-bold h-[200px] flex justify-center items-center ">آخر صورة له قبل دخول عالم البرمجة و العمل على <br> Five Stars</h1>
                 <img class="h-[500px] w-full object-cover" src="/images/mustafa12.jpg" alt="">
             </div>
             <div class="swiper-slide">
-                <h1 class="text-[#AD2F36] text-[30px] font-bold h-[140px] flex justify-center items-center "> Five Stars هذا هو الآن بعد   </h1>
+                <h1 class="text-[#AD2F36] text-[30px] font-bold h-[200px] flex justify-center items-center "> Five Stars هذا هو الآن بعد   </h1>
                 <img class="h-[500px] w-full object-cover" src="/images/mustafa13.jpeg" alt="">
             </div>
         </div>
@@ -46,7 +46,7 @@
     <div class="py-9">
         <h1 class="text-[#AD2F36] text-[30px] font-bold text-center">What our teammates say:</h1>
 
-        <div class="testimonial-swiper my-5">
+        <div class="testimonial-swiper my-5" style="overflow: hidden">
             <div class="swiper-wrapper">
                 <div class="swiper-slide max-height-testimonial" style="height: 100%">
                     <div class="bg-[#D9D9D9] p-5 h-[170px] flex-col flex gap-4">

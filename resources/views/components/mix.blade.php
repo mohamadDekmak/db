@@ -1,6 +1,6 @@
 <section>
     <h1 class="text-[#3C4592] text-[35px] font-bold text-center">The Story of Betrayal</h1>
-    <div class="swiper-m text-center  my-5">
+    <div class="swiper-m text-center  my-5" style="overflow: hidden">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
                 <h1 class="text-[#AD2F36] text-[30px] font-bold">مصطفى و حسين كانو رفقة</h1>
@@ -20,6 +20,10 @@
             <div class="swiper-slide">
                 <h1 class="text-[#AD2F36] text-[30px] font-bold">تدخل أندي الشرير بيناتهم</h1>
                 <img class="h-[300px] w-full object-cover" src="/images/andy.jpg" alt="">
+            </div>
+            <div class="swiper-slide">
+                <h1 class="text-[#AD2F36] text-[30px] font-bold">بعد ما تركو بيو وحيد لما راح يجيب حليب من سنين</h1>
+                <img class="h-[300px] w-full object-cover" src="/images/andy-father.jpeg" alt="">
             </div>
             <div class="swiper-slide">
                 <h1 class="text-[#AD2F36] text-[30px] font-bold">بديت الخلافات و بطلوا يصلوا حد بعض</h1>
