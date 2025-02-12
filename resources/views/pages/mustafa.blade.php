@@ -12,9 +12,15 @@
 </head>
 <body>
 <img src="/images/mostafa-banner.jpg" alt="" class="object-cover max-h-[500px] w-full">
-<div class="py-9">
-    <h1 class="text-[#AD2F36] text-[50px] font-bold text-center ">President of the Milk Club </h1>
-</div>
+<img src="/images/milk.png" alt="">
+{{--<div class="py-9 relative" style="background-image: url('/images/bg.png'); background-repeat: no-repeat; background-position: center; background-size: cover">--}}
+{{--<div class="overlay">--}}
+
+{{--</div>--}}
+
+{{--    <h1 class="text-white text-[50px] font-bold text-center z-10 relative">President of the Milk Club </h1>--}}
+{{--</div>--}}
+
 <section class="px-2">
     <div class="swiper text-center">
         <div class="swiper-wrapper">
@@ -38,9 +44,9 @@
         <div class="swiper-pagination" style="position: relative;top: 5px"></div>
     </div>
     <div class="py-9">
-        <h1 class="text-[#AD2F36] text-[30px] font-bold text-center">What our Customers Say About Us:</h1>
+        <h1 class="text-[#AD2F36] text-[30px] font-bold text-center">What our teammates say:</h1>
 
-        <div class="testimonial-swiper my-5" style="overflow: hidden">
+        <div class="testimonial-swiper my-5">
             <div class="swiper-wrapper">
                 <div class="swiper-slide max-height-testimonial" style="height: 100%">
                     <div class="bg-[#D9D9D9] p-5 h-[170px] flex-col flex gap-4">
@@ -99,6 +105,7 @@
 
     </div>
 </section>
+<x-mix></x-mix>
 <script>
     const Swipert = new Swiper('.swiper', {
         slidesPerView: 1,
@@ -116,5 +123,15 @@
     });
 
 </script>
+<style>
+    .overlay{
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background: rgba(0,0,0,0.5);
+        top: 0;
+    }
+</style>
 </body>
+
 </html>
